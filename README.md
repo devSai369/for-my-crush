@@ -19,8 +19,7 @@ A romantic interactive web page — built with pure HTML, CSS & JavaScript. No f
 
 ## 🚀 Live Demo
 
-> **[View it live →](https://venkat.github.io/for-my-crush)**
-> *(Replace `venkat` with your actual GitHub username)*
+> **[View it live →](https://from-venkat.netlify.app/)**
 
 ## 📁 Files
 
@@ -46,3 +45,4 @@ That's it! Share the link 💝
 ---
 
 *Made with love, pure HTML/CSS/JS — no build tools needed.*
+
